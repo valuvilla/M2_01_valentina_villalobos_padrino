@@ -8,4 +8,5 @@ import string
 print(string.ascii_uppercase)
 #Un posible ejemplo de booleano se consigue estableciendo un orden entre dos números
 #El resultado variara entre true o false ya que se trata de un booleano
+
 print(3 < 356)
